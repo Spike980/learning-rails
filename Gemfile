@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
+
+gem 'autoprefixer-rails', ">= 5.2.1", "< 6.1"
+gem 'bootstrap-sass', '>= 3.3.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -35,6 +38,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
   gem 'debugger'
+end
+
+group :test do 
+	gem 'minitest-reporters'
+	gem 'mini_backtrace'
 end
 
 group :development do
