@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
+gem 'devise'
 
 gem 'autoprefixer-rails', ">= 5.2.1", "< 6.1"
 gem 'bootstrap-sass', '>= 3.3.6'
@@ -43,7 +44,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
-  gem 'debugger'
+  gem 'byebug'
 end
 
 group :test do 

@@ -11,6 +11,7 @@ class User < ActiveRecord::Base
 	validates :password, length: { minimum: 6 }, allow_blank: true
 
 	has_many :microposts, dependent: :destroy
+	
 	has_many :active_relationships, class_name: "Relationship", foreign_key: "follower_id", dependent: :destroy
 	has_many :passive_relationships, class_name: "Relationship", foreign_key: "followed_id", dependent: :destroy
 
@@ -65,9 +66,8 @@ class User < ActiveRecord::Base
 	end
 
 	def feed
-	#	Micropost.where("user_id IN (?) or user_id = ?", following_ids, id)
 		following_ids = "SELECT followed_id FROM relationships WHERE follower_id = :user_id"
-		Micropost.where("user_id IN (#{following_ids}) or user_id = :user_id", user_id: id)
+		Micropost.where("user_id IN (#{following_ids}) OR user_id = :user_id", user_id: id)
 	end
 
 	def follow(other_user)

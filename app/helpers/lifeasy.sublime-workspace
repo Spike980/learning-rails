@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show_ad",
+				"show_admin_profile	(routes.php)"
+			],
+			[
+				"id",
+				"idate"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"cop",
+				"complaints"
+			],
+			[
+				"getComplain",
+				"getComplaintsByUser	(ComplaintsController.php)"
+			],
+			[
+				"Profi",
+				"ProfileNotFilledMiddleware	(ProfileNotFilledMiddleware.php)"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"doc",
+				"doc_f	Function"
+			],
+			[
+				"my",
+				"my_services/{order_id	(routes.php)"
+			],
+			[
+				"height",
+				"height_adjust	(landing.scss)"
+			],
+			[
+				"authe",
+				"authenticated	(AuthenticatesUsers.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/r3b3l/vhosts/lifeasy/app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 9020,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Pakcag COntrol: In",
+		"selected_items":
+		[
+			[
+				"Pakcag COntrol: In",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				" Package COntrol: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Pakcage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/r3b3l/vhosts/lifeasy",
+		"/home/r3b3l/vhosts/lifeasy/app",
+		"/home/r3b3l/vhosts/lifeasy/app/Http",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests",
+		"/home/r3b3l/vhosts/lifeasy/app/Listeners",
+		"/home/r3b3l/vhosts/lifeasy/app/Policies",
+		"/home/r3b3l/vhosts/lifeasy/app/Providers",
+		"/home/r3b3l/vhosts/lifeasy/config",
+		"/home/r3b3l/vhosts/lifeasy/database",
+		"/home/r3b3l/vhosts/lifeasy/database/migrations",
+		"/home/r3b3l/vhosts/lifeasy/resources",
+		"/home/r3b3l/vhosts/lifeasy/resources/views",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/admin",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/city",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/complaint",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/components",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/layouts",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/message",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/profile",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/review",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/serviceorders",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/zipcode",
+		"/home/r3b3l/vhosts/lifeasy/vendor",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework"
+	],
+	"file_history":
+	[
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/MessageController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/Employee/AuthController.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/Admin/AuthController.php",
+		"/home/r3b3l/vhosts/lifeasy/public/css/admin_master.css",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/layouts/admin-master.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/admin/show.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/admin/index.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/public/css/app.css",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/zipcode/index.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/ZipController.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/city/index.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/CityController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentZipcodeRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/list.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/EmployeeController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/UpdateDetailsRequest.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/city/addcity.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/emp_profile.scss",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware/CorrectEmployeeMiddleware.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/editFull.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/showFull.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/UpdateEmployeeByAdmin.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentEmployeeRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/Request.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/serviceorder.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/serviceorders/showorders.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentServiceOrdersRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/serviceorders/showservice.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/components/_navbar.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/landing.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Policies/ServiceOrderPolicy.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/ServiceOrdersController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Kernel.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware/Authenticate.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware/ProfileNotFilledMiddleware.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/profession.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/profession/profession.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/messages.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/message/send_message.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentMessageRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/routes.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/ProfessionController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentProfessionRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/complaint/list.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/zipcode/addzipcode.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/ComplaintsController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentComplaintRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/complaint/show.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/complaint.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/listComplaints.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/layouts/master.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/app.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/components/login_form.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/message/show.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/public/js/landing.js",
+		"/home/r3b3l/vhosts/lifeasy/app/Listeners/UpdateLastLogin.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/MessageRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/message/suggestion.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/config/auth.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/ProfileController.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/profile/_detailsForm.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/Auth/AuthController.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/profile/add.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/profile/show.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/profile/edit.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentProfileRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/ProfileRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/review/myreviews.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/complaint/mycomplaints.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/Auth/PasswordController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/CreateProfileRequest.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/serviceorders/myservices.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Controllers/ReviewController.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/EloquentReviewRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/ReviewRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/UpdateProfileRequest.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/ComplaintRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/CreateReviewRequest.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware/CorrectUserMiddleware.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/edit.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Console/Kernel.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware/EmpLoginMiddleware.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Employee.php",
+		"/home/r3b3l/vhosts/lifeasy/app/User.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php",
+		"/home/r3b3l/vhosts/lifeasy/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Middleware/EmployeeAuthCheckMiddleware.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Policies/EmployeePolicy.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Providers/AuthServiceProvider.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Policies/ShowEmployeePolicy.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/landing.scss",
+		"/home/r3b3l/vhosts/lifeasy/app/Repo/ServiceOrdersRepository.php",
+		"/home/r3b3l/vhosts/lifeasy/config/app.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/assets/sass/register.scss",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/auth/login.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/show.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Http/Requests/CreateServiceOrderRequest.php",
+		"/home/r3b3l/vhosts/lifeasy/.env",
+		"/home/r3b3l/vhosts/lifeasy/.gitignore",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/employee/components/emp_details_table.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Providers/EventServiceProvider.php",
+		"/home/r3b3l/vhosts/lifeasy/config/database.php",
+		"/home/r3b3l/vhosts/lifeasy/database/migrations/2016_02_11_033116_create_cities_table.php",
+		"/home/r3b3l/vhosts/hiiCiti/config/database.php",
+		"/home/r3b3l/vhosts/lifeasy/bootstrap/app.php",
+		"/home/r3b3l/vhosts/lifeasy/config/database.production.php",
+		"/home/r3b3l/vhosts/lifeasy/Procfile",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/serviceorders/create.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/resources/views/review/add.blade.php",
+		"/home/r3b3l/vhosts/lifeasy/app/Zipcode.php",
+		"/home/r3b3l/vhosts/lifeasy/app/City.php",
+		"/home/r3b3l/vhosts/lifeasy/database/factories/ModelFactory.php",
+		"/home/r3b3l/vhosts/app2/TODOParrot/app/Http/Controllers/ListsController.php",
+		"/home/r3b3l/vhosts/app2/TODOParrot/app/Http/Controllers/AboutController.php",
+		"/home/r3b3l/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/r3b3l/vhosts/app2/TODOParrot/app/Http/Controllers/NewListsController.php",
+		"/home/r3b3l/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/r3b3l/TUTORIAL.txt",
+		"/home/r3b3l/Desktop/abc.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"admin",
+			"last",
+			"sidebar",
+			"function",
+			"function u",
+			"a",
+			"Chandrayaan-1 is India's first mission to the moon. Launched by India's national\nspace agency the Indian Space Research Orgranisation(ISRO). The unmanned \nlunar exploration mission includes the lunar oribitor and an impactor. The\nspacecraft was launched by a modified version of the PLSV XL on 22 October\n2008 from Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh at 06:23\nIST(00:52 UTC). The vehicle was successfully inserted into lunar orbit on 8\nNovember 2008. The Moon Impact Probe was successfully impacted at the lunar\nsouth pole at 20:31 hour"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/r3b3l/vhosts/lifeasy/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7044,
+								7044
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 26
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 2448.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lifeasy.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"admin_mas",
+				"public/css/admin_master.css"
+			],
+			[
+				"app.css",
+				"public/css/app.css"
+			],
+			[
+				"authenticatesuser",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"authenticates",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"employee/auth",
+				"app/Http/Controllers/Employee/AuthController.php"
+			],
+			[
+				"admin",
+				"resources/views/layouts/admin-master.blade.php"
+			],
+			[
+				"messagecontr",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"admin/auth",
+				"app/Http/Controllers/Admin/AuthController.php"
+			],
+			[
+				"index.blade",
+				"resources/views/zipcode/index.blade.php"
+			],
+			[
+				"eloquentzip",
+				"app/Repo/EloquentZipcodeRepository.php"
+			],
+			[
+				"index.bla",
+				"resources/views/city/index.blade.php"
+			],
+			[
+				"zipcon",
+				"app/Http/Controllers/ZipController.php"
+			],
+			[
+				"citycon",
+				"app/Http/Controllers/CityController.php"
+			],
+			[
+				"list.blade",
+				"resources/views/employee/list.blade.php"
+			],
+			[
+				"employeecontr",
+				"app/Http/Controllers/EmployeeController.php"
+			],
+			[
+				"illuminatereqe",
+				"vendor/laravel/framework/src/Illuminate/Http/Request.php"
+			],
+			[
+				"formreq",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php"
+			],
+			[
+				"request",
+				"app/Http/Requests/Request.php"
+			],
+			[
+				"requestupdate",
+				"app/Http/Requests/UpdateEmployeeByAdmin.php"
+			],
+			[
+				"eloquentempl",
+				"app/Repo/EloquentEmployeeRepository.php"
+			],
+			[
+				"emp_profile.sc",
+				"resources/assets/sass/emp_profile.scss"
+			],
+			[
+				"editfull",
+				"resources/views/employee/editFull.blade.php"
+			],
+			[
+				"showfull",
+				"resources/views/employee/showFull.blade.php"
+			],
+			[
+				"correc",
+				"app/Http/Middleware/CorrectEmployeeMiddleware.php"
+			],
+			[
+				"list.blade.php",
+				"resources/views/employee/list.blade.php"
+			],
+			[
+				"employeecontro",
+				"app/Http/Controllers/EmployeeController.php"
+			],
+			[
+				"addci",
+				"resources/views/city/addcity.blade.php"
+			],
+			[
+				"showser",
+				"resources/views/serviceorders/showservice.blade.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"navbar",
+				"resources/views/components/_navbar.blade.php"
+			],
+			[
+				"landing.blade.php",
+				"resources/views/landing.blade.php"
+			],
+			[
+				"serviceorderpo",
+				"app/Policies/ServiceOrderPolicy.php"
+			],
+			[
+				"profilenot",
+				"app/Http/Middleware/ProfileNotFilledMiddleware.php"
+			],
+			[
+				"kernel",
+				"app/Http/Kernel.php"
+			],
+			[
+				"authe",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"eloquentservice",
+				"app/Repo/EloquentServiceOrdersRepository.php"
+			],
+			[
+				"serviceorder.scs",
+				"resources/assets/sass/serviceorder.scss"
+			],
+			[
+				"showorder",
+				"resources/views/serviceorders/showorders.blade.php"
+			],
+			[
+				"admin-mast",
+				"resources/views/layouts/admin-master.blade.php"
+			],
+			[
+				"serviceordercont",
+				"app/Http/Controllers/ServiceOrdersController.php"
+			],
+			[
+				"addcity",
+				"resources/views/city/addcity.blade.php"
+			],
+			[
+				"eloquentmessage",
+				"app/Repo/EloquentMessageRepository.php"
+			],
+			[
+				"messages.sc",
+				"resources/assets/sass/messages.scss"
+			],
+			[
+				"send_message",
+				"resources/views/message/send_message.blade.php"
+			],
+			[
+				"messagecontro",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"eloquentpr",
+				"app/Repo/EloquentProfessionRepository.php"
+			],
+			[
+				"profession.scss",
+				"resources/assets/sass/profession.scss"
+			],
+			[
+				"addciy",
+				"resources/views/city/addcity.blade.php"
+			],
+			[
+				"profession.bla",
+				"resources/views/profession/profession.blade.php"
+			],
+			[
+				"professioncontr",
+				"app/Http/Controllers/ProfessionController.php"
+			],
+			[
+				"eloquentcomple",
+				"app/Repo/EloquentComplaintRepository.php"
+			],
+			[
+				"zipcontr",
+				"app/Http/Controllers/ZipController.php"
+			],
+			[
+				"complaint.sc",
+				"resources/assets/sass/complaint.scss"
+			],
+			[
+				"complaints.scss",
+				"resources/assets/sass/listComplaints.scss"
+			],
+			[
+				"complaint.scss",
+				"resources/assets/sass/complaint.scss"
+			],
+			[
+				"complaintscon",
+				"app/Http/Controllers/ComplaintsController.php"
+			],
+			[
+				"login_",
+				"resources/views/components/login_form.blade.php"
+			],
+			[
+				"_navbar",
+				"resources/views/components/_navbar.blade.php"
+			],
+			[
+				"admin_mast",
+				"public/css/admin_master.css"
+			],
+			[
+				"app.scss",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"master",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"citycont",
+				"app/Http/Controllers/CityController.php"
+			],
+			[
+				"master.blade",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"landing.js",
+				"public/js/landing.js"
+			],
+			[
+				"landing.blade",
+				"resources/views/landing.blade.php"
+			],
+			[
+				"auth",
+				"config/auth.php"
+			],
+			[
+				"",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"sugge",
+				"resources/views/message/suggestion.blade.php"
+			],
+			[
+				"messagere",
+				"app/Repo/MessageRepository.php"
+			],
+			[
+				"master.blade.",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"messagecont",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"details",
+				"resources/views/profile/_detailsForm.blade.php"
+			],
+			[
+				"profilecon",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"eloquentprof",
+				"app/Repo/EloquentProfileRepository.php"
+			],
+			[
+				"authen",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"ker",
+				"app/Http/Kernel.php"
+			],
+			[
+				"authcon",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"eloq",
+				"app/Repo/EloquentProfileRepository.php"
+			],
+			[
+				"eloqprofilere",
+				"app/Repo/EloquentProfileRepository.php"
+			],
+			[
+				"authcontroller",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"authcontr",
+				"app/Http/Controllers/Auth/PasswordController.php"
+			],
+			[
+				"createprofile",
+				"app/Http/Requests/CreateProfileRequest.php"
+			],
+			[
+				"profile/ad",
+				"resources/views/profile/add.blade.php"
+			],
+			[
+				"authcontro",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"authcont",
+				"app/Http/Controllers/Admin/AuthController.php"
+			],
+			[
+				"landing.bla",
+				"resources/views/landing.blade.php"
+			],
+			[
+				"profilere",
+				"app/Repo/ProfileRepository.php"
+			],
+			[
+				"profiler",
+				"app/Repo/EloquentProfileRepository.php"
+			],
+			[
+				"myreveiw",
+				"resources/views/review/myreviews.blade.php"
+			],
+			[
+				"myre",
+				"resources/views/review/myreviews.blade.php"
+			],
+			[
+				"serviceordermys",
+				"resources/views/serviceorders/myservices.blade.php"
+			],
+			[
+				"servicecontr",
+				"app/Http/Controllers/ServiceOrdersController.php"
+			],
+			[
+				"reviewcon",
+				"app/Http/Controllers/ReviewController.php"
+			],
+			[
+				"eloquentre",
+				"app/Repo/EloquentReviewRepository.php"
+			],
+			[
+				"complaintscont",
+				"app/Http/Controllers/ComplaintsController.php"
+			],
+			[
+				"complaintre",
+				"app/Repo/EloquentComplaintRepository.php"
+			],
+			[
+				"reviewre",
+				"app/Repo/ReviewRepository.php"
+			],
+			[
+				"reviewcontr",
+				"app/Http/Controllers/ReviewController.php"
+			],
+			[
+				"serviceorderr",
+				"app/Repo/EloquentServiceOrdersRepository.php"
+			],
+			[
+				"eloquentcomp",
+				"app/Repo/EloquentComplaintRepository.php"
+			],
+			[
+				"complaintr",
+				"app/Repo/ComplaintRepository.php"
+			],
+			[
+				"complaints",
+				"app/Http/Controllers/ComplaintsController.php"
+			],
+			[
+				"eloquentserviceorderre",
+				"app/Repo/EloquentServiceOrdersRepository.php"
+			],
+			[
+				"serviceordercontr",
+				"app/Http/Controllers/ServiceOrdersController.php"
+			],
+			[
+				"eloquentprofile",
+				"app/Repo/EloquentProfileRepository.php"
+			],
+			[
+				"updateprofilere",
+				"app/Http/Requests/UpdateProfileRequest.php"
+			],
+			[
+				"profilecontro",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"createreve",
+				"app/Http/Requests/CreateReviewRequest.php"
+			],
+			[
+				"profileno",
+				"app/Http/Middleware/ProfileNotFilledMiddleware.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"add",
+				"resources/views/profile/add.blade.php"
+			],
+			[
+				"_details",
+				"resources/views/profile/_detailsForm.blade.php"
+			],
+			[
+				"profilecontr",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"correctuser",
+				"app/Http/Middleware/CorrectUserMiddleware.php"
+			],
+			[
+				"correct",
+				"app/Http/Middleware/CorrectEmployeeMiddleware.php"
+			],
+			[
+				"edit",
+				"resources/views/employee/edit.blade.php"
+			],
+			[
+				"authenticatesand",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"components_",
+				"resources/views/components/_navbar.blade.php"
+			],
+			[
+				"corre",
+				"app/Http/Middleware/CorrectEmployeeMiddleware.php"
+			],
+			[
+				"emplogin",
+				"app/Http/Middleware/EmpLoginMiddleware.php"
+			],
+			[
+				"kern",
+				"app/Http/Kernel.php"
+			],
+			[
+				"k",
+				"app/Http/Kernel.php"
+			],
+			[
+				"employeeauth",
+				"app/Http/Middleware/EmployeeAuthCheckMiddleware.php"
+			],
+			[
+				"employee.",
+				"app/Employee.php"
+			],
+			[
+				"user.",
+				"app/User.php"
+			],
+			[
+				"employeepo",
+				"app/Policies/EmployeePolicy.php"
+			],
+			[
+				"authser",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"showe",
+				"app/Policies/ShowEmployeePolicy.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "destroy",
+		"selected_items":
+		[
+			[
+				"destroy",
+				"destroy"
+			]
+		],
+		"width": 932.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "ind",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "q",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/r3b3l/vhosts/lifeasy/app/Http"
+		},
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -50,6 +50,7 @@ GEM
     bootstrap-will_paginate (0.0.10)
       will_paginate
     builder (3.2.2)
+    byebug (9.0.5)
     carrierwave (0.10.0)
       activemodel (>= 3.2.0)
       activesupport (>= 3.2.0)
@@ -62,15 +63,8 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
-    columnize (0.9.0)
     concurrent-ruby (1.0.1)
     debug_inspector (0.0.2)
-    debugger (1.6.8)
-      columnize (>= 0.3.1)
-      debugger-linecache (~> 1.2.0)
-      debugger-ruby_core_source (~> 1.3.5)
-    debugger-linecache (1.2.0)
-    debugger-ruby_core_source (1.3.8)
     erubis (2.7.0)
     excon (0.49.0)
     execjs (2.6.0)
@@ -208,9 +202,9 @@ DEPENDENCIES
   bcrypt (~> 3.1.7)
   bootstrap-sass (>= 3.3.6)
   bootstrap-will_paginate (= 0.0.10)
+  byebug
   carrierwave (= 0.10.0)
   coffee-rails (~> 4.1.0)
-  debugger
   faker (= 1.4.2)
   fog (= 1.23.0)
   jbuilder (~> 2.0)
@@ -230,4 +224,4 @@ DEPENDENCIES
   will_paginate (= 3.0.7)
 
 BUNDLED WITH
-   1.11.2
+   1.12.5
